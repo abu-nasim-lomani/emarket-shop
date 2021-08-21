@@ -1,0 +1,20 @@
+.box-arv{
+    font-size: 14px;
+    font-family: monospace;
+    color: black;
+    padding: 8px;
+}
+.arv-box{
+    border: 1px solid whitesmoke;
+    background: #f7f7f9;
+    /* box-shadow: 0px 0px 3px 2px #80808026; */
+    cursor: pointer;
+}
+
+.arv-box:hover{
+    border: 1px solid whitesmoke;
+    background: #7d7df183;
+    box-shadow: 0px 0px 3px 2px #5a525226;
+    transition: 1s;
+}
+
